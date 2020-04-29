@@ -8,7 +8,7 @@ class App extends  React.Component {
     render() {
         return (
             <div className="App">
-                计数器11：<button type='button'>-</button>0<button type='button'>+</button>
+                计数器：<button type='button'>-</button>0<button type='button'>+</button>
             </div>
         );
     }
