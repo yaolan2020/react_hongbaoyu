@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import Config from './other/Config';
+import Config from '../../other/Config';
 
 import './App.css';
 
