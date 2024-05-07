@@ -38,9 +38,8 @@ class App extends  React.Component {
     };
     render() {
         return (
-            <div className="App">
+            <div className="AppTest">
                 <p className='app_name'>{this.state.name}</p>
-                 
             </div>
         );
     }
